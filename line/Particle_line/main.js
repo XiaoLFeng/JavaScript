@@ -4,12 +4,12 @@
   var SCREEN_HEIGHT = window.innerHeight;
   
   var RADIUS = 70;
-  
+
   var RADIUS_SCALE = 1;
-  var RADIUS_SCALE_MIN = 1;
-  var RADIUS_SCALE_MAX = 1.5;
+  var RADIUS_SCALE_MIN = 0.2;
+  var RADIUS_SCALE_MAX = 0.8;
   
-  var QUANTITY = 25;
+  var QUANTITY = 10;
   
   var canvas;
   var context;
